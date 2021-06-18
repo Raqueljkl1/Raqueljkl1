@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Welcome! 歓迎します 👋
 
-[Curriculo](https://gitconnected.com/matheusjkl1)
-[Linkedin](https://www.linkedin.com/in/matheusmendes16/)
+**[Curriculo](https://gitconnected.com/matheusjkl1)
+**[Linkedin](https://www.linkedin.com/in/matheusmendes16/)
 
 ## Principais tecnologias
 
