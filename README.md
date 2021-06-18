@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ## Principais tecnologias
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raqueljkl1&theme=purple&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raqueljkl1&theme=dracula&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqueljkl1&show_icons=true&theme=pink)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqueljkl1&show_icons=true&theme=dracula)
