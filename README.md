@@ -16,8 +16,25 @@ Here are some ideas to get you started:
 -->
 ### Welcome! 歓迎します 👋
 
-## Principais tecnologias
+💙 Trabalho na Coração da Selva
+🤓 Gosto de usar o Linter para garantir um Código Limpo
+🧠 Metodologias ágeis (Kanban e Scrum);
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raqueljkl1&theme=dracula&layout=compact)
+Principais Skills 👀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqueljkl1&show_icons=true&theme=dracula)
+-HTML & CSS;
+
+-JavaScript (ES6);
+
+-React (Hooks e Context API, Redux);
+
+-NodeJs
+
+-MongoDB & SQL;
+
+-Unix & Bash;
+
+-Git & GitHub.
+
+
+page_with_curl Atualmente estou aprimorando meus conhecimento em Ciencia de dados com Python 🐍
