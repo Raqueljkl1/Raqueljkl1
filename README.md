@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 -Git & GitHub.
 
 
-page_with_curl Atualmente estou aprimorando meus conhecimento em Ciencia de dados com Python 🐍
+Atualmente estou aprimorando meus conhecimento em Ciencia de dados com Python 🐍
