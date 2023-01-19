@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 🧠 Metodologias ágeis (Kanban e Scrum);
 
-Principais Skills 👀
+
+💥##Principais Skills
 
 -HTML & CSS;
 
