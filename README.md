@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ### Welcome! 歓迎します 👋
 
 💙 Trabalho na Coração da Selva
+
 🤓 Gosto de usar o Linter para garantir um Código Limpo
+
 🧠 Metodologias ágeis (Kanban e Scrum);
 
 Principais Skills 👀
