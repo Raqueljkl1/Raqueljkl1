@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 💙 Trabalho na Coração da Selva
 
+🎓 Formação em Análise e Desenvolvimento de Sistemas (2019)
+
+📊 Pós graduação em Big Data (2020)
+
 🤓 Gosto de usar o Linter para garantir um Código Limpo
 
 🧠 Metodologias ágeis (Kanban e Scrum);
