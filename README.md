@@ -29,19 +29,17 @@ Here are some ideas to get you started:
 
 ### 💥 Principais Skills
 
--HTML & CSS;
+- Python
 
--JavaScript (ES6);
+- R;
+  
+- ETL;
 
--React (Hooks e Context API, Redux);
+- PowerBi;
 
--NodeJs
-
--MongoDB & SQL;
+- SQL;
 
 -Unix & Bash;
 
 -Git & GitHub.
 
-
-Atualmente estou aprimorando meus conhecimento em Ciencia de dados com Python 🐍
