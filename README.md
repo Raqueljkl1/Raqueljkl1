@@ -1,9 +1,10 @@
 ## Bem-vindo ao meu perfil do GitHub! 👋
 
+
 Sou um entusiasta de tecnologia apaixonado por análise de dados.
 
 Atualmente, faço parte da equipe da **Coração da Selva**, onde mergulho fundo na selva tecnológica.
-
+<img height='180em' src='https://www.canva.com/design/DAFbO_aXORI/aiOUz9PN8FEYF0AP_1p5Og/watch?utm_content=DAFbO_aXORI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel'>
 ### 📚 Formação e Educação
 - Formada em Análise e Desenvolvimento de Sistemas (2019)
 - Pós-graduação em Big Data (2020)
@@ -27,3 +28,5 @@ Atualmente, faço parte da equipe da **Coração da Selva**, onde mergulho fundo
 </div>
 
 Sinta-se à vontade para explorar meus repositórios para ver projetos interessantes que trabalhei!
+
+
