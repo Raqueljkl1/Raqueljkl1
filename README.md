@@ -4,17 +4,20 @@
 Sou um entusiasta de tecnologia apaixonado por análise de dados.
 
 Atualmente, faço parte da equipe da **Coração da Selva**, onde mergulho fundo na selva tecnológica.
-<img height='180em' src='https://www.canva.com/design/DAFbO_aXORI/aiOUz9PN8FEYF0AP_1p5Og/watch?utm_content=DAFbO_aXORI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel'>
 ### 📚 Formação e Educação
 - Formada em Análise e Desenvolvimento de Sistemas (2019)
 - Pós-graduação em Big Data (2020)
 
 ### 🚀 Habilidades Principais
-- Linguagens de Programação: Python, R
-- Análise de Dados: ETL, SQL
-- Visualização de Dados: PowerBi
-- Ambiente Unix: Unix & Bash
-- Controle de Versão: Git & GitHub
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🧠 Conhecimento Adicional
 - Experiência com metodologias ágeis, incluindo Kanban e Scrum.
