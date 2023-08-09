@@ -1,45 +1,26 @@
-<!--
-**Raqueljkl1/Raqueljkl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem-vindo ao meu perfil do GitHub! 👋
 
-Here are some ideas to get you started:
+Sou um entusiasta de tecnologia apaixonado por análise de dados.
 
-- 🔭 I’m currently working on Coracao Selva
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[Curriculo](https://gitconnected.com/matheusjkl1)
-[Linkedin](https://www.linkedin.com/in/matheusmendes16/)
--->
-### Welcome! 歓迎します 👋
+Atualmente, faço parte da equipe da **Coração da Selva**, onde mergulho fundo na selva tecnológica.
 
-💙 Trabalho na Coração da Selva
+### 📚 Formação e Educação
+- Formada em Análise e Desenvolvimento de Sistemas (2019)
+- Pós-graduação em Big Data (2020)
 
-🎓 Formação em Análise e Desenvolvimento de Sistemas (2019)
+### 🚀 Habilidades Principais
+- Linguagens de Programação: Python, R
+- Análise de Dados: ETL, SQL
+- Visualização de Dados: PowerBi
+- Ambiente Unix: Unix & Bash
+- Controle de Versão: Git & GitHub
 
-📊 Pós graduação em Big Data (2020)
+### 🧠 Conhecimento Adicional
+- Experiência com metodologias ágeis, incluindo Kanban e Scrum.
+- Apaixonado por manter um código limpo e legível, utilizando ferramentas como Linter.
 
-🤓 Gosto de usar o Linter para garantir um Código Limpo
+### 📫 Vamos Conectar!
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- [Twitter](https://twitter.com/seu-username)
 
-🧠 Metodologias ágeis (Kanban e Scrum);
-
-
-### 💥 Principais Skills
-
-- Python
-
-- R;
-  
-- ETL;
-
-- PowerBi;
-
-- SQL;
-
--Unix & Bash;
-
--Git & GitHub.
-
+Sinta-se à vontade para explorar meus repositórios para ver projetos interessantes que trabalhei!
