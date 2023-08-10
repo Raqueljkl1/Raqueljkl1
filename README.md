@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil do GitHub! 👋
 
 
-Sou um entusiasta de tecnologia apaixonada por análise de dados.
+Sou uma entusiasta de tecnologia apaixonada por análise de dados.
 
 Atualmente, faço parte da equipe da **Coração da Selva**, onde mergulho fundo na selva tecnológica.
 ### 📚 Formação e Educação
